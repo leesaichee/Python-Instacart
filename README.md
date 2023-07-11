@@ -1,5 +1,5 @@
 # Python_Instacart
-As part of the Career Foundry Data Analytics Program, this project is aimed to demonstrate the knowledge of Python in data analysis.
+As part of the Career Foundry Data Analytics Program, this [project](01%20Project%20Management/A4_Data_Project%20Brief.pdf) is aimed to demonstrate the knowledge of Python in data analysis.
 
 ## Background
 Instacart is an online grocery store that operates through an app. The Instacart stakeholders are most interested in the variety of customers in their database
@@ -29,7 +29,7 @@ The customer data and the “prices” column in the products data set were both
 Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy), Excel
 
 ## Project Folders Arrangement
-1. Project Management
+1. [Project Management](01%20Project%20Management)
    - Contains the Project Brief. 
 2. Data
    - Contains two subfolders: “Original Data”, for storing the raw data sets, and “Prepared Data”, for storing any manipulated data sets. 
@@ -38,8 +38,8 @@ Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy), Excel
    - Contains all the Python scripts involved for the entire analysis process. 
 4. Analysis
    - Contains all the results and visualizations produced throughout the analysis. 
-5. Sent to client
+5. [Sent to client](05%20Sent%20to%20Client)
    - Contains the final deliverables. 
 
 ## Final Deliverables
-- An Excel report 
+- An [Excel report](05%20Sent%20to%20Client/Final_report.xlsx)
