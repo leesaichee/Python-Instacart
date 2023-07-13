@@ -34,9 +34,9 @@ Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy), Excel
 2. Data
    - Contains two subfolders: “Original Data”, for storing the raw data sets, and “Prepared Data”, for storing any manipulated data sets. 
    - NOTE: This Data folder is not uploaded here. 
-3. Sripts
+3. [Sripts](03%20Scripts)
    - Contains all the Python scripts involved for the entire analysis process. 
-4. Analysis
+4. [Analysis](04%20Analysis)
    - Contains all the results and visualizations produced throughout the analysis. 
 5. [Sent to client](05%20Sent%20to%20Client)
    - Contains the final deliverables. 
