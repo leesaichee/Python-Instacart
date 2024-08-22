@@ -26,7 +26,8 @@ To inform how to ensure Instacart targets the right customer profiles with the a
 The customer data and the “prices” column in the products data set were both fabricated for the purpose of the Career Foundry Data Analytics course. 
 
 ## Tools
-Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy), Excel
+- Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy)
+- Excel
 
 ## Project Folders Arrangement
 1. [Project Management](01%20Project%20Management)
