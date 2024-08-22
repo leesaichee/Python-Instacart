@@ -45,4 +45,4 @@ The customer data and the “prices” column in the products data set were both
    - Contains the final deliverables. 
 
 ## Final Deliverables
-- An [Excel report](05%20Sent%20to%20Client/Final_report.xlsx)
+- [Excel report](05%20Sent%20to%20Client/Final_report.xlsx)
