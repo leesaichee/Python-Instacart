@@ -1,7 +1,7 @@
 # Python_Instacart
 As part of the Career Foundry Data Analytics Program, this [project](01%20Project%20Management/A4_Data_Project%20Brief.pdf) is aimed to demonstrate the knowledge of Python in data analysis.
 
-![Instacart image](https://www.zdnet.com/a/img/resize/8ec01a9827508dd3cf0b63effdb15798db5ce95b/2020/08/20/c7ff72fc-cd2a-4f7d-b099-d4becd45c564/instacart.jpg?auto=webp&fit=crop&height=900&width=1200)
+![Instacart image]([https://www.zdnet.com/a/img/resize/8ec01a9827508dd3cf0b63effdb15798db5ce95b/2020/08/20/c7ff72fc-cd2a-4f7d-b099-d4becd45c564/instacart.jpg?auto=webp&fit=crop&height=900&width=1200](https://mostvaluedbusiness.com/wp-content/uploads/2023/01/Everything-You-Need-To-Know-About-Instacart-Detailed-Overview.jpg))
 
 ## Background
 Instacart is an online grocery store that operates through an app. The Instacart stakeholders are most interested in the variety of customers in their database
