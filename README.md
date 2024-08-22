@@ -20,7 +20,7 @@ To inform how to ensure Instacart targets the right customer profiles with the a
 - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family status?
 - What differences can you find in the ordering habits of different customer profiles? Consider the price of orders, the frequency of orders, the products customers are ordering, and anything else you can think of.
 
-## Data citation:
+## Data Citation:
 [“The Instacart Online Grocery Shopping Dataset 2017”](https://www.kaggle.com/datasets/psparks/instacart-market-basket-analysis), accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 14/4/2023.
 
 The customer data and the “prices” column in the products data set were both fabricated for the purpose of the Career Foundry Data Analytics course. 
