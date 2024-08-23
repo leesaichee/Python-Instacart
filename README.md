@@ -36,7 +36,7 @@ The customer data and the “prices” column in the products data set were both
    - Contains the Project Brief. 
 2. Data
    - Contains two subfolders: “Original Data”, for storing the raw data sets, and “Prepared Data”, for storing any manipulated data sets. 
-   - NOTE: This Data folder is not uploaded here. 
+   - NOTE: The Data folder is not uploaded here due to its large size. 
 3. [Sripts](03%20Scripts)
    - Contains all the Python scripts involved for the entire analysis process. 
 4. [Analysis](04%20Analysis)
