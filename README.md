@@ -29,6 +29,7 @@ The customer data and the “prices” column in the products data set were both
 
 ## Tools
 - Python (Pandas, Numpy, Seaborn, Matplotlib, Scipy)
+- Jupyter Notebook
 - Excel
 
 ## Project Folders Arrangement
